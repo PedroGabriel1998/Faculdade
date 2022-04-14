@@ -1,2 +1,2 @@
 # Faculdade
-Repositório destinado a resguardar minhas atividades consumadas durante meu período acadêmico.
+Repositório destinado a resguardar minhas atividades produzidas durante meu período acadêmico na graduação.
